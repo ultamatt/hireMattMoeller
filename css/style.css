@@ -54,20 +54,12 @@ h1 {
     opacity: 1;
 }
 
-.sell {
-    border-style: solid;
-    border-radius: 5px;
-    border-color: darkgrey;
-    background: lightgrey;
-    text-align:center;
-}
-
-.sell ul {
+.jumbotron ul {
     text-align: left;
     list-style-type: none;
 }
 
-.sell li {
+.jumbotron li {
     margin: 5px auto;
     padding: 5px;
     background: white;
@@ -75,6 +67,6 @@ h1 {
     padding-left: 10px;
 }
 
-.sell li span{
+.jumbotron li span{
     color: red;
 }
