@@ -1,0 +1,50 @@
+.center-text {
+    text-align:center;
+}
+
+#goingVegan {
+    background-image: url("/img/goingVegan.png");
+    background-size:cover;
+    opacity: 1;
+}
+
+#bbq {
+    background-image: url("/img/bbq.png");
+    background-size:cover;
+    opacity: 1;
+}
+
+.filmInfo{
+    width: 50%;
+    background-color: #FFF;
+    opacity: .8;
+}
+
+.film{
+    opacity: 1;
+}
+
+.sell {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: darkgrey;
+    background: lightgrey;
+    text-align:center;
+}
+
+.sell ul {
+    text-align: left;
+    list-style-type: none;
+}
+
+.sell li {
+    margin: 5px auto;
+    padding: 5px;
+    background: white;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.sell li span{
+    color: red;
+}
