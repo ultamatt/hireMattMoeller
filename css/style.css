@@ -14,6 +14,24 @@
     opacity: 1;
 }
 
+#meAndYou {
+    background-image: url("/img/meAndYou.png");
+    background-size:cover;
+    opacity: 1;
+}
+
+#improvOneOhOne {
+    background-image: url("/img/improvOneOhOne.jpeg");
+    background-size:cover;
+    opacity: 1;
+}
+
+/*#lockeAndLowde {
+    background-image: url("/img/lockeAndLowde.png");
+    background-size:cover;
+    opacity: 1;
+}
+*/
 .filmInfo{
     width: 50%;
     background-color: #FFF;
